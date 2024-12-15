@@ -11,10 +11,10 @@
 /* Special Thanks to Rosé Pine */
 .theme-dark {
     --input-background: #073642;
-    --bg-overlay-chat: #14415e;
-    --home-background: #14415e;
-    --modal-footer-background: #14415e;
-    --primary-600: #14415e;
+    --bg-overlay-chat: #002b36;
+    --home-background: #002b36;
+    --modal-footer-background: #002b36;
+    --primary-600: #002b36;
     --bg-mod-faint: #6e6af622;
     --card-secondary-bg: #00000060;
     --background-message-highlight: #6e6af633;
@@ -22,9 +22,9 @@
     --background-mentioned: #6e6af633;
     --background-mentioned-hover: #6e6af622;
     --info-warning-foreground: #6e6af6;
-    --background-primary: #14415e;
+    --background-primary: #002b36;
     --background-secondary: #073642;
-    --background-secondary-alt: #14415e;
+    --background-secondary-alt: #002b36;
     --channeltextarea-background: #2c2842;
     --background-tertiary: #002b36;
     --background-accent: #0000003a;
@@ -39,7 +39,7 @@
     --interactive-hover: #6c71c4;
     --interactive-active: #fdf6e3;
     --ping: #dc322f;
-    --background-modifier-selected: #14415eb4;
+    --background-modifier-selected: #002b36b4;
     --scrollbar-thin-thumb: #002b36;
     --scrollbar-thin-track: transparent;
     --scrollbar-auto-thumb: #002b36;
